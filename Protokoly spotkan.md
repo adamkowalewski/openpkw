@@ -19,6 +19,12 @@ Adam 2: Wykonam modele procesów w OpenOffice Impress
   - bardzo prosta obsługa  
 - Pliki procesów w formacie draw.io XML są dostępne tutaj [dokumentacja/procesy/] (dokumentacja/procesy/)
 
+Bardzo cie proszę o łopatologiczną instrukcję (dla blondyna ;) ) jak obejrzeć plik Obwodowa komisja wyborcza.xml  
+Albo zrób jakiś plik graficzny z tego czegoś do obejrzenia.  
+Nie zamierzam nic zmieniać ale chciałbym to po prostu obejrzeć... a nie jestem w stanie :(  
+Przemek  
+
+
 Adam 3: Odpowiadam za pull requesty do mojego repozytorium
 - Wszystko zintegrowane
 
